@@ -828,7 +828,8 @@
   {
     "id": 140,
     "name": "util",
-    "parent": 1
+    "parent": 1,
+    "group": "util"
   },
   {
     "id": 141,
