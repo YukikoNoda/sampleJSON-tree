@@ -391,7 +391,8 @@
   {
     "id": 67,
     "name": "query",
-    "parent": 1
+    "parent": 1,
+    "group": "query"
   },
   {
     "id": 68,
@@ -827,8 +828,7 @@
   {
     "id": 140,
     "name": "util",
-    "parent": 1,
-    "group": "vis"
+    "parent": 1
   },
   {
     "id": 141,
@@ -998,7 +998,8 @@
   {
     "id": 169,
     "name": "vis",
-    "parent": 1
+    "parent": 1,
+    "group": "vis"
   },
   {
     "id": 170,
