@@ -125,7 +125,7 @@
     "name": "interpolate",
     "parent": 16,
     "group": "class3",
-    "color": "#008C69"
+    "color": "green"
   },
   {
     "id": 20,
@@ -264,7 +264,7 @@
     "name": "converters",
     "parent": 38,
     "group": "class3",
-    "color": "#00509D"
+    "color": "navy"
   },
   {
     "id": 40,
