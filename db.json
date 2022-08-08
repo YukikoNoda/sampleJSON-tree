@@ -57,7 +57,7 @@
     "parent": 8,
     "size": 3534,
     "group": "class4",
-    "color": "#EEAC00"
+    "color": "#69A90D"
   },
   {
     "id": 10,
@@ -124,15 +124,15 @@
     "id": 19,
     "name": "interpolate",
     "parent": 16,
-    "group": "class3"
+    "group": "class3",
+    "color": "#008C69"
   },
   {
     "id": 20,
     "name": "ArrayInterpolator",
     "parent": 19,
     "size": 1983,
-    "group": "class4",
-    "color": "#008C69"
+    "group": "class4"
   },
   {
     "id": 21,
@@ -263,15 +263,15 @@
     "id": 39,
     "name": "converters",
     "parent": 38,
-    "group": "class3"
+    "group": "class3",
+    "color": "#00509D"
   },
   {
     "id": 40,
     "name": "Converters",
     "parent": 39,
     "size": 721,
-    "group": "class4",
-    "color": "#00509D"
+    "group": "class4"
   },
   {
     "id": 41,
