@@ -5,6 +5,12 @@
     "group": "class1"
   },
   {
+    "id": 16,
+    "name": "animate",
+    "parent": 1,
+    "group": "class2"
+  },
+  {
     "id": 2,
     "name": "analytics",
     "parent": 1,
@@ -99,12 +105,6 @@
     "parent": 14,
     "size": 7074,
     "group": "class4"
-  },
-  {
-    "id": 16,
-    "name": "animate",
-    "parent": 1,
-    "group": "class2"
   },
   {
     "id": 17,
